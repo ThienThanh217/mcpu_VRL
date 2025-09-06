@@ -29,7 +29,7 @@
 
     git clone https://github.com/ThienThanh217/mcpu.git
     cd mcpu
-    tar xvaf xmrigcc-miner-arm-android-3.4.6.tar.gz
+    tar xvaf xmrigcc-arm.tar.gz
     chmod u+x xmrigDaemon
     chmod u+x xmrigMiner
     chmod +x config.json
