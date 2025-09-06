@@ -58,56 +58,56 @@
 
 Máy 01:CCX_M01_S9pX
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M01_S9pX --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M01_S9pX --cpu-max-cpu-usage=80
 
 Máy 02:CCX_M02_S9pH
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M02_S9pH --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M02_S9pH --cpu-max-cpu-usage=80
 
 Máy 03:CCX_M03_S9pH
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M03_S9pH --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M03_S9pH --cpu-max-cpu-usage=80
 
 Máy 04:CCX_M04_S9pX
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M04_S9pX --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M04_S9pX --cpu-max-cpu-usage=80
 
 Máy 05:CCX_M05_S9X
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M05_S9X --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M05_S9X --cpu-max-cpu-usage=80
 
 Máy 06:CCX_M06_S10pT
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M06_S10pT --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M06_S10pT --cpu-max-cpu-usage=80
 
 Máy 07:CCX_M07_N8
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M07_N8 --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M07_N8 --cpu-max-cpu-usage=80
 
 Máy 08:CCX_M08_S8pT
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M08_S8pT --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M08_S8pT --cpu-max-cpu-usage=80
 
 Máy 09:CCX_M09_A72017
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M09_A72017 --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M09_A72017 --cpu-max-cpu-usage=80
 
 Máy 10:CCX_M10_S9pH
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M10_S9pH --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M10_S9pH --cpu-max-cpu-usage=80
 
 Máy 11:CCX_M11_M30s
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M11_M30s --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M11_M30s --cpu-max-cpu-usage=80
 
 Máy 12:CCX_M12_G2plx
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M12_G2plx --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M12_G2plx --cpu-max-cpu-usage=80
 
 Máy 13:CCX_M13_SH701sh
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M13_SH701sh --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M13_SH701sh --cpu-max-cpu-usage=80
 
 Máy 14:CCX_M14_ZFlip1
 
-    ./xmrigDaemon --cc-disabled --algo=cn --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M14_ZFlip1 --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=cn/ccx --coin=CCX --url=sg.fastpool.xyz:10166 --user=ccx7bV23UMHC9ifXV9Q8m5hA58mrbMTPTZgq7krvugmN6jaERQTv2FuexMyZmYUGaqGf8jFJCCRyqVFDdvXv4N6zAKPcgNwgFw --pass=x --rig-id=CCX_M14_ZFlip1 --cpu-max-cpu-usage=80
