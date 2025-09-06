@@ -102,5 +102,5 @@ Máy 13:VRL_M13_SH701sh
 
 Máy 14:VRL_M14_ZFlip1
 
-    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M14_ZFlip1 --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=asia.rplant.xyz:17155 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M14_ZFlip1 --cpu-max-cpu-usage=80
 
