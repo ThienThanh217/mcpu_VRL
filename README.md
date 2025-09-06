@@ -50,57 +50,57 @@
 
 Máy 01:VRL_M01_S9pX
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M01_S9pX --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M01_S9pX --cpu-max-cpu-usage=80
 
 Máy 02:VRL_M02_S9pH
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M02_S9pH --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M02_S9pH --cpu-max-cpu-usage=80
 
 Máy 03:VRL_M03_S9pH
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M03_S9pH --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M03_S9pH --cpu-max-cpu-usage=80
 
 Máy 04:VRL_M04_S9pX
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M04_S9pX --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M04_S9pX --cpu-max-cpu-usage=80
 
 Máy 05:VRL_M05_S9X
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M05_S9X --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M05_S9X --cpu-max-cpu-usage=80
 
 Máy 06:VRL_M06_S10pT
 
-./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M06_S10pT --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M06_S10pT --cpu-max-cpu-usage=80
 
 Máy 07:VRL_M07_N8
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M07_N8 --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M07_N8 --cpu-max-cpu-usage=80
 
 Máy 08:VRL_M08_S8pT
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M08_S8pT --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M08_S8pT --cpu-max-cpu-usage=80
 
 Máy 09:VRL_M09_A72017
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M09_A72017 --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M09_A72017 --cpu-max-cpu-usage=80
 
 Máy 10:VRL_M10_S9pH
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M10_S9pH --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M10_S9pH --cpu-max-cpu-usage=80
 
 Máy 11:uVRL_M11_M30s
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=uVRL_M11_M30s --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=uVRL_M11_M30s --cpu-max-cpu-usage=80
 
 Máy 12:VRL_M12_G2plx
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M12_G2plx --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M12_G2plx --cpu-max-cpu-usage=80
 
 Máy 13:VRL_M13_SH701sh
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M13_SH701sh --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M13_SH701sh --cpu-max-cpu-usage=80
 
 Máy 14:VRL_M14_ZFlip1
 
-    ./xmrigDaemon --cc-disabled --algo=rx --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M14_ZFlip1 --cpu-max-cpu-usage=80
+    ./xmrigDaemon --cc-disabled --algo=rx/vrl --coin=VRL --url=sg.luckypool.io:4117 --user=v226zkgvqq38d4z9hdfhvacizb5jw726lopf7koe48x --pass=x --rig-id=VRL_M14_ZFlip1 --cpu-max-cpu-usage=80
 
