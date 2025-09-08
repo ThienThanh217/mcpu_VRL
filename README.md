@@ -175,3 +175,7 @@ Máy 13:NOX_M13_SH701sh
 Máy 14:NOX_M14_ZFlip1
 
     ./xmrigDaemon --cc-disabled --algo=rx --coin=NOX --url randomx.rplant.xyz:7107 --user=PkZuzPuXfwZWnJ7AGVUR9j2MQYjfWf6cCMwSK7YA2WUNJ6GsJ8tiwEpPCCznTveySm6VjmGpLhXaFBw7wVgJdCNg12FDn9uDP --pass=x --rig-id=NOX_M14_ZFlip1 --cpu-max-cpu-usage=80
+ryo coin
+./xmrigDaemon --cc-disabled --algo=cn --coin=RYO --url pool.ryo-currency.com:3333 --user=RYoNsCHsnFSQLS5JUWzd9ee7N7pe44gTE9JUmjYHUgT6RRLL76x35pwiJ9aVU141s6JnBachuzCJWcPFn9zEdvM9WhsSsxbzGy5TGeHm1spsBT --pass=x --rig-id=RYO_M14_ZFlip1 --cpu-max-cpu-usage=80
+
+
